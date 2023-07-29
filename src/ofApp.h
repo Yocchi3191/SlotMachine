@@ -19,6 +19,7 @@ public:
 	void mouseExited(int x, int y);
 	void windowResized(int w, int h);
 	void dragEvent(ofDragInfo dragInfo);
+
 	void gotMessage(ofMessage msg);
 
 	//シリアル通信インスタンスの作成

@@ -134,3 +134,8 @@ Desktop.ini
 .mailmap
 /apps*/
 projectGenerator*/
+
+#########################
+# zip
+#########################
+.zip
